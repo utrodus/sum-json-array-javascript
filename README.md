@@ -14,3 +14,14 @@ There are several files, namely:
 To be able to run the program, you can use node Js as the runtime, so make sure that nodejs is installed, then run the command:
 
     node index.js
+    
+### Contact Info
+- Github : [![GitHub followers](https://img.shields.io/github/followers/utrodus.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/utrodus?tab=followers) 
+- Website : [utrodus.my.id](utrodus.my.id)
+- Instagram : [@come.said](https://www.instagram.com/utrodus)
+- WhatsApp : [+62 816 5416 082](https://wa.me/628165416082)
+- Email : [contact.utrodus@gmail.com](mailto:contact.utrodus@gmail.com)
+
+---
+
+###### tags: `Javascript` 
